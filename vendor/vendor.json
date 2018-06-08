@@ -1,0 +1,42 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "9fH2Wod5bN3E4GWNBFPVWPj25wM=",
+			"path": "github.com/go-chi/chi",
+			"revision": "cca4135d8dddff765463feaf1118047a9e506b4a",
+			"revisionTime": "2018-04-24T17:23:50Z"
+		},
+		{
+			"checksumSHA1": "1Xlo4sCR+zeOzjslXc/NAOmkgXg=",
+			"path": "github.com/go-chi/chi/middleware",
+			"revision": "cca4135d8dddff765463feaf1118047a9e506b4a",
+			"revisionTime": "2018-04-24T17:23:50Z"
+		},
+		{
+			"checksumSHA1": "4l75G7AbWNp+sZdzIEa+tFE7bMk=",
+			"path": "github.com/go-chi/docgen",
+			"revision": "ac43d9a63f3b58b1e82922411d2de365d896ee72",
+			"revisionTime": "2017-08-08T22:15:02Z"
+		},
+		{
+			"checksumSHA1": "Uxtuf0yrw6/aMBgPMj1JZRRllBY=",
+			"path": "github.com/go-chi/render",
+			"revision": "3215478343fbc559bd3fc08f7031bb134d6bdad5",
+			"revisionTime": "2018-05-31T15:06:17Z"
+		},
+		{
+			"checksumSHA1": "vt+P9D2yWDO3gdvdgCzwqunlhxU=",
+			"path": "github.com/hashicorp/logutils",
+			"revision": "0dc08b1671f34c4250ce212759ebd880f743d883",
+			"revisionTime": "2015-06-09T07:04:31Z"
+		},
+		{
+			"checksumSHA1": "Xs9toY7Kzr3fkwJy19Q3Brq6ZrA=",
+			"path": "github.com/streadway/amqp",
+			"revision": "e5adc2ada8b8efff032bf61173a233d143e9318e",
+			"revisionTime": "2018-05-28T20:44:48Z"
+		}
+	]
+}
